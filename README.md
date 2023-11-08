@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shahria sayad
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning dart
 - 📫 How to reach me : shahriasayad9@gmail.com
 
 <!---
