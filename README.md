@@ -6,4 +6,4 @@
 
 -🌱 I’m currently learning app development with Flutter.
 
--📫 How to reach me : shahriasayad9@gmail.com/
+-📫 How to reach me : shahriasayad9@gmail.com / in/shahria-sayad-9236a1308
