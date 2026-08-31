@@ -28,13 +28,12 @@ I'm a Flutter developer building production apps for startups and growing teams.
 
 ---
 
-## 💼 Professional Experience
+## Experience
 
-### **Flutter App Developer**
-*__Softvence Agency__* | *Dec 2025 – Aug 2026 · 9 months*
-- Architected and scaled cross-platform mobile applications using Flutter and GetX.
-- Implemented rigorous state management, local caching with Hive, and clean reactive workflows.
-- Optimized app performance, reduced widget rebuilds, and ensured pixel-perfect alignment with Figma designs.
+**Flutter App Developer** — [Softvence Agency](https://softvence.agency/)
+`Dec 2025 – Aug 2026 · 9 months`
+
+Built and maintained cross-platform mobile apps using Flutter. Focused on clean architecture, performance, and responsive UI.
 
 ---
 
