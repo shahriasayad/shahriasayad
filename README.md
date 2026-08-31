@@ -1,5 +1,7 @@
 <div align="center">
+
 ![212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852](https://github.com/user-attachments/assets/a0504147-60b3-45f7-b026-1d90e676a58a)
+
 # Shahria Sayad
 
 ### **Flutter Developer** | Crafting High-Performance Mobile Experiences
@@ -13,9 +15,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 </div>
@@ -59,4 +59,3 @@ When I'm not writing code, you'll find me contributing to open-source initiative
     <img src="https://img.shields.io/badge/Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
 </div>
-
