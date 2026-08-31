@@ -1,61 +1,80 @@
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/a0504147-60b3-45f7-b026-1d90e676a58a" alt="Header Image" width="100%" />
 
-![212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852](https://github.com/user-attachments/assets/a0504147-60b3-45f7-b026-1d90e676a58a)
+  <br><br>
 
-# Shahria Sayad
+  <h1>Hi there, I'm Shahria Sayad 👋</h1>
+  <h3>Flutter Developer | Crafting cross-platform apps that feel native</h3>
 
-### **Flutter Developer** | Crafting High-Performance Mobile Experiences
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahria-sayad-9236a1308/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:shahriasayad9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
+  <p>
+    <a href="https://www.linkedin.com/in/shahria-sayad-9236a1308/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:shahriasayad9@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+  
+  <br>
+  
+  <i>Mobile work built around clarity, speed, and user experience that sticks. <br> I focus on interfaces that feel designed, not just functional.</i>
 </div>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-I am a dedicated **Flutter Developer** with 4+ years of professional experience engineering resilient, high-performance production applications for startups and dynamic teams. My core philosophy centers around robust clean architecture, seamless state management, and user interfaces that feel exceptionally fluid and responsive.
+I'm a Flutter developer building production apps for startups and growing teams. I care deeply about performance, clean architecture, and UI that actually feels good to use. 
 
-When I'm not writing code, you'll find me contributing to open-source initiatives, dissecting Dart internals, or exploring the outdoors.
-
----
-
-## 💼 Professional Experience
-
-### **Flutter App Developer**
-*__Softvence Agency__* | *Dec 2025 – Aug 2026 · 9 months*
-- Architected and scaled cross-platform mobile applications using Flutter and GetX.
-- Implemented rigorous state management, local caching with Hive, and clean reactive workflows.
-- Optimized app performance, reduced widget rebuilds, and ensured pixel-perfect alignment with Figma designs.
+- 🔭 I’m currently working on pushing the limits of **Flutter** and **Dart**.
+- 📝 When I'm not shipping features, you'll find me contributing to open-source or writing about Dart internals.
+- ⛰️ Fun fact: I love hiking somewhere without cell service.
+- 📫 How to reach me: **[shahriasayad9@gmail.com](mailto:shahriasayad9@gmail.com)**
 
 ---
 
-## 🛠️ Technical Expertise
+### 🛠️ Tech Stack & Tools
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Core & Language** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **State & Storage** | ![GetX](https://img.shields.io/badge/GetX-FF0000?style=flat-square&logo=dart&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-FFCA28?style=flat-square&logo=hive&logoColor=black) ![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-4285F4?style=flat-square&logo=android&logoColor=white) |
-| **Networking & Backend** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=json&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
-| **Tools & IDEs** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>Mobile Development</b><br><br>
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+    </td>
+    <td align="center" width="25%">
+      <b>State Management & Data</b><br><br>
+      <img src="https://img.shields.io/badge/GetX-%23FF0000.svg?style=for-the-badge&logo=dart&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Hive-%23FFCA28.svg?style=for-the-badge&logo=hive&logoColor=black" /> <br>
+      <img src="https://img.shields.io/badge/Shared_Preferences-%234285F4.svg?style=for-the-badge&logo=android&logoColor=white" />
+    </td>
+    <td align="center" width="25%">
+      <b>Backend & Languages</b><br><br>
+      <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010409" />
+    </td>
+    <td align="center" width="25%">
+      <b>Tools & Workflow</b><br><br>
+      <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
+
+### 💼 Professional Experience
+
+**Flutter App Developer** @ [Softvence Agency](https://softvence.agency/) *(Dec 2025 – Aug 2026)*  
+> Built and maintained cross-platform mobile apps using Flutter. Focused on clean architecture, performance, and responsive UI.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <h3>Let's build something amazing together!</h3>
-  <p>Got an exciting project or want to chat about Flutter? Reach out below.</p>
-  <a href="mailto:shahriasayad9@gmail.com">
-    <img src="https://img.shields.io/badge/Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriasayad&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Shahria's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriasayad&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
