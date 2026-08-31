@@ -31,10 +31,10 @@ I'm a Flutter developer building production apps for startups and growing teams.
 ## 💼 Professional Experience
 
 ### **Flutter App Developer**
-*__Softvence Agency__*[cite: 1] | *Dec 2025 – Aug 2026 · 9 months*[cite: 1]
-- Architected and scaled cross-platform mobile applications using Flutter and GetX[cite: 1].
-- Implemented rigorous state management, local caching with Hive, and clean reactive workflows[cite: 1].
-- Optimized app performance, reduced widget rebuilds, and ensured pixel-perfect alignment with Figma designs[cite: 1].
+*__Softvence Agency__* | *Dec 2025 – Aug 2026 · 9 months*
+- Architected and scaled cross-platform mobile applications using Flutter and GetX.
+- Implemented rigorous state management, local caching with Hive, and clean reactive workflows.
+- Optimized app performance, reduced widget rebuilds, and ensured pixel-perfect alignment with Figma designs.
 
 ---
 
@@ -42,11 +42,11 @@ I'm a Flutter developer building production apps for startups and growing teams.
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Core & Language** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)[cite: 1] |
-| **State & Storage** | ![GetX](https://img.shields.io/badge/GetX-FF0000?style=flat-square&logo=dart&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-FFCA28?style=flat-square&logo=hive&logoColor=black) ![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-4285F4?style=flat-square&logo=android&logoColor=white)[cite: 1] |
-| **Networking & Backend** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=json&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)[cite: 1] |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)[cite: 1] |
-| **Tools & IDEs** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)[cite: 1] |
+| **Core & Language** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **State & Storage** | ![GetX](https://img.shields.io/badge/GetX-FF0000?style=flat-square&logo=dart&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-FFCA28?style=flat-square&logo=hive&logoColor=black) ![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-4285F4?style=flat-square&logo=android&logoColor=white) |
+| **Networking & Backend** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=json&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
+| **Tools & IDEs** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
 
 ---
 
@@ -57,3 +57,4 @@ I'm a Flutter developer building production apps for startups and growing teams.
     <img src="https://img.shields.io/badge/Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
 </div>
+
